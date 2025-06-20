@@ -34,15 +34,21 @@ Este projeto apresenta uma solução completa de Machine Learning para a classif
 
 ## 📁 Estrutura de pastas
 
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
+```
+src/
+├── main.ipynb
+├── seeds_dataset.txt
+│
+document/
+├── Relatorio.pdf
+│
+├.gitignore
+└ README.md
+```
 
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+- main.ipynb - Solução completa do treinamento e geração dos modelos.
+- seeds_data.txt - Data Sets utilizado para treinamento dos modelos.
+- Relatorio.pdf - Relatório em pdf de todo o projeto.
 
 ## 🎯 Objetivo do Projeto
 
